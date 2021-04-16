@@ -1,7 +1,0 @@
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\Projet_Xamarin_Gestion_Courses.csprojAssemblyReference.cache
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\Views\ListCourse.xaml.g.cs
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\Projet_Xamarin_Gestion_Courses.AssemblyInfoInputs.cache
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\Projet_Xamarin_Gestion_Courses.AssemblyInfo.cs
-D:\TPCDA\Projet\Projet_Xamarin_Gestion_Courses\Projet_Xamarin_Gestion_Courses\obj\Debug\netstandard2.0\Projet_Xamarin_Gestion_Courses.csproj.CoreCompileInputs.cache
